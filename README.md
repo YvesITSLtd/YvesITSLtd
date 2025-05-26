@@ -1,4 +1,4 @@
-👋 Hi, I’m @YvesITSLtd
+👋 Hi, I’m Yves Irumva Ngabonziza
 
 - 👀 I’m interested in software development, mobile apps, web design, and tech innovations that solve real-world problems.
 - 🌱 I’m currently learning advanced Flutter, Firebase integrations, and AI tools for smarter apps.
